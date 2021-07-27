@@ -1,7 +1,7 @@
 #! /bin/bash
 
 function banner(){
-figlet -f big By AGC卐| lolcat
+figlet -f big By AGC卍| lolcat
 #echo -e "\n"
 echo "                 ______________________________________         "|lolcat
 echo "        ________|                                      |_______ "|lolcat
@@ -10,7 +10,7 @@ echo "         \      |                                      |     /  "|lolcat
 echo "         /      |______________________________________|     \  "|lolcat
 echo "        /__________)                                (_________\ "|lolcat
 echo ""
-echo -e "\e[1;36m                        Coded By -> AGC卐\n"
+echo -e "\e[1;36m                        Coded By -> AGC卍\n"
 echo -e "\e[1;35m                             Version - 1.0"
 }
 
