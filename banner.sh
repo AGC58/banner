@@ -5,7 +5,7 @@ figlet -f big By AGC卍| lolcat
 #echo -e "\n"
 echo "                 ______________________________________         "|lolcat
 echo "        ________|                                      |_______ "|lolcat
-echo "        \       |  HOS GELDİNİZ BUR BİR TERMUX AFİSİDİR   |      / "|lolcat
+echo "        \       | HOS GELDİNİZ-TERMUX TEMANIZI SEÇİNİZ  |      / "|lolcat
 echo "         \      |                                      |     /  "|lolcat
 echo "         /      |______________________________________|     \  "|lolcat
 echo "        /__________)                                (_________\ "|lolcat
