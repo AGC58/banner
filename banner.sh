@@ -165,13 +165,13 @@ function update(){
 
 function mainMenu(){
 
-echo -e "\n\n\n\e[33mWhat do you want to perform :-
+echo -e "\n\n\n\e[33mNe Yapmak İstiyorsun :-
 +-----------------------------------------------------------------------+
-	1.Create Banner
-	2.Remove Banner
-	3.Backup & Restore
-	4.Update
-	5.Exit
+	1.Kurulum Yap
+	2.Sil
+	3.Pek Yakında
+	4.Güncelle
+	5.Çıkış
 +-----------------------------------------------------------------------+
 \033[0m";
 
