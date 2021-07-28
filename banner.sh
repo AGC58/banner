@@ -91,9 +91,9 @@ cd /data/data/com.termux/files/usr/etc
 
 echo -e "\n\n\n\e[33mRemove Banner Menu :-
 +-----------------------------------------------------------------------+
-        1.Remove last banner only
-        2.Remove all banners
-        3.Cancel
+        1.En son temayı sil
+        2.Tümünü sil 
+        3.Vazgeç
 +-----------------------------------------------------------------------+
 \033[0m";
 echo -e "\n\e[33mEnter choice number : \e[32m\c"
@@ -118,9 +118,9 @@ function backupAndRestore(){
 
 echo -e "\n\n\n\e[33mBackup And Restore Menu :-
 +-----------------------------------------------------------------------+
-        1.Backup
-        2.Restore
-        3.Cancel
+        1.Yedekle
+        2.Varsayilanlar
+        3.Vazgeç
 +-----------------------------------------------------------------------+
 \033[0m";
 echo -e "\n\e[33mEnter choice number : \e[32m\c"
@@ -169,7 +169,7 @@ echo -e "\n\n\n\e[33mNe Yapmak İstiyorsun :-
 +-----------------------------------------------------------------------+
 	1.Kurulum Yap
 	2.Sil
-	3.Pek Yakında
+	3.Düzenle
 	4.Güncelle
 	5.Çıkış
 +-----------------------------------------------------------------------+
