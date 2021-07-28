@@ -106,7 +106,7 @@ case $ch in
 	;;
 	2)restore;;
 	3)echo -e "\n\e[32mThank you for Using\e[0m\n
-	  figlet -f small "Thank You"|lolcat;"
+	  figlet -f small "TESEKKURLER"|lolcat;"
 	  exit
 	;;
 	*)echo -e "\nInvalid Option";;
@@ -131,7 +131,7 @@ case $bar in
         1)backup;;
         2)restore;;
         3)echo -e "\n\e[32mThank you for Using\e[0m\n"
-	  figlet -f small "Thank You"|lolcat;
+	  figlet -f small "TESEKKURLER"|lolcat;
           exit
         ;;
         *)echo -e "\nInvalid Option";;
@@ -185,7 +185,7 @@ case $opt in
         2)removeBanner;;
 	3)backupAndRestore;;
 	4)update;;
-	5)figlet -f small "Thank You"|lolcat;
+	5)figlet -f small "TESEKKURLER"|lolcat;
 	  exit
 	;;
 	*)echo -e "\nInvalid Option";;
